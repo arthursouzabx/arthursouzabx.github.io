@@ -176,7 +176,7 @@
 }
 
 /* Mobile */
-@media(max-width: 450px){
+@media(max-width: 500px){
     #container{
         flex-direction: column;
     }
@@ -194,7 +194,7 @@
     }
     #about-container{
         text-align: center;
-        padding: 30%;
+        padding: 10%;
     }
     #about-conatiner .description{
         margin: 10px auto;
