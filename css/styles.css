@@ -207,6 +207,9 @@
     #bio-container h2{
         display: none;
     }
+    .description{
+        text-align: center;
+    }
     #bio-container p{
         max-width: 60%;
         margin: 10px auto;
@@ -219,9 +222,7 @@
         margin: 10px auto;
         max-width: 100%;
         line-height: 26px;
-    }
-    #skills-container{
-        padding: 10%;
+        text-align: left;
     }
     #btn-projects{
         margin: 20px auto;
