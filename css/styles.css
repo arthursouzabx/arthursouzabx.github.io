@@ -201,6 +201,9 @@
         max-width: 100%;
         line-height: 26px;
     }
+    #skills-container{
+        padding: 10%;
+    }
     #btn-projects{
         margin: 20px auto;
     }
